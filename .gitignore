@@ -1,0 +1,5 @@
+## File-based project format:
+*.iws
+
+# IntelliJ
+/target/
